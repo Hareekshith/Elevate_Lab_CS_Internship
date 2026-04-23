@@ -1,0 +1,3 @@
+[submodule "NetSentinel"]
+	path = NetSentinel
+	url = git@github.com:Hareekshith/NetSentinel.git
